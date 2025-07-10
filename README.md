@@ -1,12 +1,26 @@
-# React + Vite
+# Lexisg-frontend-intern-test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal React frontend simulating a Lexi-like legal assistant interface. Users can enter legal questions, view AI-generated answers with citations, and click citations to open the original PDF judgment at the relevant paragraph.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run the Project
 
-## Expanding the ESLint configuration
+Run the following commands one-by-one in your terminal:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Step 1: Clone the repo
+git clone https://github.com/kunal202425/Lexisg-frontend-intern-test.git
+
+# Step 2: Change directory
+cd Lexisg-frontend-intern-test
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start the development server
+npm start
+
+# Step 5: Open the app at http://localhost:3000 in your browser
+
+# Live demo URL (hosted on Vercel)
+echo "Live demo available at: https://lexisg-frontend-intern-test-c8ifc3aoy.vercel.app/"

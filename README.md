@@ -9,7 +9,7 @@ A minimal React frontend simulating a Lexi-like legal assistant interface. Users
 Run the following commands one-by-one in your terminal:
 
 # Step 1: Clone the repo
-git clone https://github.com/kunal202425/Lexisg-frontend-intern-test.git
+git clone https://github.com/kunal202426/Lexisg-frontend-intern-test.git
 
 # Step 2: Change directory
 cd Lexisg-frontend-intern-test

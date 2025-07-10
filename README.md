@@ -26,3 +26,6 @@ npm start
 echo "Live demo available at: https://lexisg-frontend-intern-test-c8ifc3aoy.vercel.app/"
 
 #sample text - "In a motor accident claim where the deceased was self-employed and aged 54–55 years at the time of death, is the claimant entitled to an addition towards future prospects in computing compensation under Section 166 of the Motor Vehicles Act, 1988? If so, how much?"
+
+<img width="1272" height="945" alt="image" src="https://github.com/user-attachments/assets/8a084022-0bf1-4334-ba2d-c713e640b8a3" />
+
